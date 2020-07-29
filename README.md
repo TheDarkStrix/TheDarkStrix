@@ -5,6 +5,7 @@
 <p>I'm Manoj Paramesh, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/3174/3174946.svg" width="16"/> <b>Bangalore, Karnataka, India.</b></p>
 <h3>Things I code with</h3>
 <p>
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ea2845?style=flat-square&logo=javascript&logoColor=black&color=yellow" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
@@ -25,15 +26,27 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="VScode" src="https://img.shields.io/badge/-VScode-ea2845?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-ea2845?style=flat-square&logo=adobe-photoshop&logoColor=white&color=blue" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ea2845?style=flat-square&logo=php&logoColor=white&color=green" />
+  <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-ea2845?style=flat-square&logo=strapi&logoColor=white&color=lightpurple" />
+  
+  
 </p>
+<h3>Things I design with</h3>
+<p>
+  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-ea2845?style=flat-square&logo=adobe-photoshop&logoColor=white&color=blue" />
+  <img alt="XD" src="https://img.shields.io/badge/-XD-ea2845?style=flat-square&logo=adobe-xd&logoColor=white&color=gray" />
+  <img alt="INdesign" src="https://img.shields.io/badge/-Indesign-ea2845?style=flat-square&logo=adobe-indesign&logoColor=white&color=yellow" />
+  <img alt="Ai" src="https://img.shields.io/badge/-Ai-ea2845?style=INdesign&logo=adobe-illustrator&logoColor=white&color=pink" />
+</p>
+
 <h2>Have a project to discuss?</h2>
 <p>
 <img alt="mail" src="https://img.shields.io/badge/-Personal-ea2845?style=flat-square&logo=mail.ru&logoColor=white&color=black" /> : `itsmanoj.contact#gmail.com`  `[# -> @]`</br>
 <img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : `manoj#geexec.com`  `[# -> @]`</br>
-<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : [geexec.com](https://geexec.com)
+<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : [geexec.com](https://geexec.com)</br>
+<img alt="mail" src="https://img.shields.io/badge/-XDA-ea2845?style=flat-square&logo=xda-developers&logoColor=white&color=orange" /> : [TheDarkStrix](https://forum.xda-developers.com/member.php?u=6800596)
 </p>
+
 <!--
 **TheDarkStrix/TheDarkStrix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
