@@ -43,7 +43,7 @@
 <p>
 <img alt="mail" src="https://img.shields.io/badge/-Personal-ea2845?style=flat-square&logo=mail.ru&logoColor=white&color=black" /> : <code>itsmanoj.contact#gmail.com` `[# -> @]</code></br>
 <img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : <code>manoj#geexec.com`  `[# -> @]</code></br>
-<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : <a href="https://geexec.com">Geexec.com</br>
+<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : <a href="https://geexec.com">Geexec.com</a></br>
 <img alt="mail" src="https://img.shields.io/badge/-XDA-ea2845?style=flat-square&logo=xda-developers&logoColor=white&color=orange" /> : <a href="https://forum.xda-developers.com/member.php?u=6800596">TheDarkStrix</a>
 </p>
 
