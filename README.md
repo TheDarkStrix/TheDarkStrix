@@ -13,7 +13,6 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" />
   <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
   <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white" />
-  <img alt="Photoshop" src="https://img.shields.io/badge/-Photoshop-ea2845?style=flat-square&logo=adobe-photoshop&logoColor=white&color=blue" />
   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img alt="NextJs" src="https://img.shields.io/badge/-NextJs-ea2845?style=flat-square&logo=next.js&logoColor=white&color=black" />
   <img alt="Gatsby" src="https://img.shields.io/badge/-Gatsby-ea2845?style=flat-square&logo=Gatsby&logoColor=white&color=purple" />
@@ -28,6 +27,8 @@
   <img alt="VScode" src="https://img.shields.io/badge/-VScode-ea2845?style=flat-square&logo=visual-studio-code&logoColor=white&color=blue" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-ea2845?style=flat-square&logo=php&logoColor=white&color=green" />
   <img alt="Strapi" src="https://img.shields.io/badge/-Strapi-ea2845?style=flat-square&logo=strapi&logoColor=white&color=lightpurple" />
+  <img alt="Postman" src="https://img.shields.io/badge/-Postman-ea2845?style=flat-square&logo=postman&logoColor=white&color=orange" />
+  <img alt="Auth_0" src="https://img.shields.io/badge/-Auth0-ea2845?style=flat-square&logo=auth0&logoColor=white&color=black" />
   
   
 </p>
@@ -41,10 +42,10 @@
 
 <h2>Have a project to discuss?</h2>
 <p>
-<img alt="mail" src="https://img.shields.io/badge/-Personal-ea2845?style=flat-square&logo=mail.ru&logoColor=white&color=black" /> : <code>itsmanoj.contact#gmail.com` `[# -> @]</code></br>
-<img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : <code>manoj#geexec.com`  `[# -> @]</code></br>
-<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : <a href="https://geexec.com">Geexec.com</a></br>
-<img alt="mail" src="https://img.shields.io/badge/-XDA-ea2845?style=flat-square&logo=xda-developers&logoColor=white&color=orange" /> : <a href="https://forum.xda-developers.com/member.php?u=6800596">TheDarkStrix</a>
+<img alt="mail" src="https://img.shields.io/badge/-Personal-ea2845?style=flat-square&logo=mail.ru&logoColor=white&color=black" /> : <code>itsmanoj.contact#gmail.com</code> <code> [# -> @]</code></br>
+<img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : <code>manoj#geexec.com</code> <code> [# -> @]</code></br>
+<img alt="mail" src="https://img.shields.io/badge/-Visit-ea2845?style=flat-square&logo=curl&logoColor=white&color=gray" /> : <a href="https://geexec.com"><code>Geexec.com</code></a></br>
+<img alt="mail" src="https://img.shields.io/badge/-XDA-ea2845?style=flat-square&logo=xda-developers&logoColor=white&color=orange" /> : <a href="https://forum.xda-developers.com/member.php?u=6800596"><code>TheDarkStrix</code></a>
 </p>
 
 <!--
