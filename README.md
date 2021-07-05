@@ -43,7 +43,7 @@
 <h2>Have a project to discuss?</h2>
 <p>
 <img alt="mail" src="https://img.shields.io/badge/-Personal-ea2845?style=flat-square&logo=mail.ru&logoColor=white&color=black" /> : <code>itsmanoj.contact#gmail.com</code> <code> [# -> @]</code></br>
-<img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : <code>manoj#classcast.in</code> <code> [# -> @]</code></br>
+<img alt="mail" src="https://img.shields.io/badge/-Official-ea2845?style=flat-square&logo=gmail&logoColor=white&color=green" /> : <code>manoj.p#classcast.in</code> <code> [# -> @]</code></br>
 <img alt="mail" src="https://img.shields.io/badge/-XDA-ea2845?style=flat-square&logo=xda-developers&logoColor=white&color=orange" /> : <a href="https://forum.xda-developers.com/member.php?u=6800596"><code>TheDarkStrix</code></a>
 </p>
 
