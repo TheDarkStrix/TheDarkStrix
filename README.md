@@ -2,7 +2,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello !</h1>
 
 
-<p>I'm Manoj Paramesh, Fullstack developer from <img src="https://image.flaticon.com/icons/svg/3174/3174946.svg" width="16"/> <b>Bangalore, Karnataka, India.</b></p>
+<p>I'm Manoj Paramesh, Fullstack developer from <b>Bangalore, Karnataka, India.</b></p>
 <h3>Things I code with</h3>
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-ea2845?style=flat-square&logo=javascript&logoColor=black&color=yellow" />
